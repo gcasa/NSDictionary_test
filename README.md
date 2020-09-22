@@ -1,0 +1,1 @@
+Demonstrates that you can use non string objects as a key.  This is currently not allowed in GNUstep and that is a bug.
